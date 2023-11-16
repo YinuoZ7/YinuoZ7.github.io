@@ -1,11 +1,7 @@
-/* Define standard variables and values for website */
-$bgcolor: lightblue;
-$textcolor: darkblue;
-$fontsize: 18px;
-
-/* Use the variables */
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 body {
-  background-color: $bgcolor;
-  color: $textcolor;
-  font-size: $fontsize;
+  background-color: lightblue;
 }
