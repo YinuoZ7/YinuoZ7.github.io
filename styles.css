@@ -1,5 +1,5 @@
 body {
-  background-color:lightpink;
+  background-color:rgb(121, 205, 233);
 }
 
 header {
@@ -16,7 +16,7 @@ nav {
  }
 
  nav a {
-    color: white;
+    color: burlywood;
     text-decoration: none;
     margin: 0 1em;
 }
