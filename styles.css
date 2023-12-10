@@ -1,23 +1,28 @@
 body {
-  background-color:lightblue;
+  background-color:lightgrey;
 }
 
 header {
     font-family: Arial, sans-serif;
-    background-color:lightblue;
+    background-color:lightgrey;
     color: white;
     text-align: center;
     padding: 1em;
 }
 
 nav {
-    background-color: burlywood;
+    background-color: lightgoldenrodyellow;
     padding: 1em;
     text-align: center;
  }
+nav a {
+    color: lightgoldenrodyellow;
+    text-decoration: none;
+    margin: 0 1em;
+}
 
 section {
-    background-color: lightblue;
+    background-color: lightgrey;
     color: blanchedalmond;
     padding: 2em;
 }
