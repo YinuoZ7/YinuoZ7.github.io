@@ -11,7 +11,7 @@ header {
 }
 
 nav {
-    background-color: rgb(251, 168, 251);
+    background: color #d7b2ff;;
     padding: 1em;
  }
 nav a {
@@ -25,15 +25,8 @@ section {
     color: rgba(92, 182, 212, 0.866);
     padding: 2em;
 }
-img {
-    display: block;
-    margin-left: right;
-    margin-right: right;
-    width: 40%;
-  }
-
 footer {
-    background-color: lightpink;
+    background: color #ffd9e4;
     color: white;
     text-align: center;
     padding: 1em;
