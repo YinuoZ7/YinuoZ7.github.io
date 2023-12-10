@@ -1,5 +1,5 @@
 body {
-  background-color:rgb(121, 205, 233);
+  background-color:lightblue;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 }
 
 nav {
-    background-color: lightblue;
+    background-color: burlywood;
     padding: 1em;
  }
 
