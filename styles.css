@@ -11,7 +11,7 @@ header {
 }
 
 nav {
-    background-color: plum;
+    background-color: rgb(255, 198, 255);
     padding: 1em;
  }
 nav a {
@@ -33,7 +33,7 @@ img {
   }
 
 footer {
-    background-color: rgb(249, 196, 204) 182, 193, 0.925;
+    background-color: lightpink;
     color: white;
     text-align: center;
     padding: 1em;
