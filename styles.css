@@ -16,18 +16,18 @@ nav {
     text-align: center;
  }
 
-        section {
-            background-color: lightblue;
-            color: blanchedalmond;
-            padding: 2em;
-        }
+section {
+    background-color: lightblue;
+    color: blanchedalmond;
+    padding: 2em;
+}
 
-        footer {
-            background-color: pink;
-            color: white;
-            text-align: center;
-            padding: 1em;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
+footer {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
