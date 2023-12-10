@@ -5,13 +5,13 @@ body {
 header {
     font-family: Arial, sans-serif;
     background-color:lightgoldenrodyellow;
-    color: darkgray;
+    color: white;
     text-align: center;
     padding: 1em;
 }
 
 nav {
-    background-color: rgb(255, 198, 255);
+    background-color: rgb(251, 168, 251);
     padding: 1em;
  }
 nav a {
@@ -22,7 +22,7 @@ nav a {
 
 section {
     background-color: lightgoldenrodyellow;
-    color: rgba(96, 190, 221, 0.866);
+    color: rgba(92, 182, 212, 0.866);
     padding: 2em;
 }
 img {
