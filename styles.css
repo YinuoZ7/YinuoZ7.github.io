@@ -25,6 +25,12 @@ section {
     color: lightblue;
     padding: 2em;
 }
+img {
+    display: block;
+    margin-left: right;
+    margin-right: right;
+    width: 40%;
+  }
 
 footer {
     background-color: lightpink;
