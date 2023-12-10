@@ -1,33 +1,33 @@
 body {
-  background-color:lightgrey;
+  background-color:lightgoldenrodyellow;
 }
 
 header {
     font-family: Arial, sans-serif;
-    background-color:lightgrey;
+    background-color:lightgoldenrodyellow;
     color: white;
     text-align: center;
     padding: 1em;
 }
 
 nav {
-    background-color: lightgoldenrodyellow;
+    background-color: lightpink;
     padding: 1em;
  }
 nav a {
-    color: lightgoldenrodyellow;
+    color: white;
     text-decoration: none;
     margin: 0 1em;
 }
 
 section {
-    background-color: lightgrey;
-    color: blanchedalmond;
+    background-color: lightgoldenrodyellow;
+    color: lightblue;
     padding: 2em;
 }
 
 footer {
-    background-color: pink;
+    background-color: lightpink;
     color: white;
     text-align: center;
     padding: 1em;
