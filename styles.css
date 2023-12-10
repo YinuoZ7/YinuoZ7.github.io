@@ -13,14 +13,12 @@ header {
 nav {
     background-color: burlywood;
     padding: 1em;
+    text-align: center;
  }
 
- nav a {
-    color: burlywood;
-    text-decoration: none;
-    margin: 0 1em;
-}
         section {
+            background-color: lightblue;
+            color: blanchedalmond;
             padding: 2em;
         }
 
