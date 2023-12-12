@@ -1,2 +1,59 @@
-# itp
- 
+# put my website in the order of header-nav-section-footer
+- so waht I did is I put the each section in the index.html
+``` javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <header>
+        <h1>YN</h1>
+    </header>
+<nav>
+</nav>
+<section>
+</section>
+<footer>
+        &copy; 2023 YN..
+    </footer>
+</body>
+</html>
+```
+- Then I fill in the blank, which is like
+```javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YN's website</title>
+    <link rel="icon" sizes="192x192" href="WechatIMG5.jpeg" type="image/jpeg"/>
+  <link rel="shortcut icon" href="WechatIMG5.jpeg" type="image/jpeg"/>
+  <link rel="apple-touch-icon" href="WechatIMG5.jpeg" type="image/jpeg"/>
+  <link href="styles.css" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1>YN</h1>
+    </header>
+    
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="works.html">Works</a>
+        <a href="Contact.html">Contact</a>
+    </nav>
+
+    <section>
+        <h2>This is YN's Website</h2>
+        <p>欢迎观影</p>
+        <p>Hi</p>
+        <p><img src= images/mino.png></p>
+    </section>
+    <footer>
+        &copy; 2023 YN..
+    </footer>
+</body>
+</html>
+```
