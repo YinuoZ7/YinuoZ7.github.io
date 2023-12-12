@@ -38,6 +38,6 @@ footer {
     text-align: center;
     padding: 1em;
     position: fixed;
-    bottom: 1;
-    width: 1;
+    bottom: 0;
+    width: 100%;
 }
