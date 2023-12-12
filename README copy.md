@@ -27,10 +27,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YN's website</title>
-    <link rel="icon" sizes="192x192" href="WechatIMG5.jpeg" type="image/jpeg"/>
-  <link rel="shortcut icon" href="WechatIMG5.jpeg" type="image/jpeg"/>
-  <link rel="apple-touch-icon" href="WechatIMG5.jpeg" type="image/jpeg"/>
-  <link href="styles.css" rel="stylesheet">
 
 </head>
 <body>
@@ -56,4 +52,51 @@
     </footer>
 </body>
 </html>
+```
+- after that my website have a form but don't have a website design, so I write the css form for my website.
+(I copied the main code form Richeal's website)
+```javascript
+body {
+  background-color:lightpink
+}
+
+header {
+    font-family: Arial, sans-serif;
+    background-color:lightgoldenrodyellow;
+    color: plum;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background: color #d7b2ff;;
+    padding: 1em;
+ }
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
+
+section {
+    background-color: lightgoldenrodyellow;
+    color: rgba(92, 182, 212, 0.866);
+    padding: 2em;
+}
+footer {
+    background: color #ffd9e4;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 ```
