@@ -117,4 +117,36 @@ https://github.com/YinuoZ7/YinuoZ7.github.io/blob/main/WechatIMG5.jpeg
 - I put some tittle and introduction in the each section. 
 
 # I feel that I need to put some picture in my website which can make my website looks good.
-- 
+- so I put some of the pictures in that
+
+# after all of that I am going to put my works in that.
+
+# Then I found the beatiful contact page on the website that Rachel gives to us. and changed a little bit on that.
+- which is looks like this 
+```javascript
+<section>
+    <h2>Contact Me</h2>
+    <hr class="w3-opacity">
+
+    <div class="w3-section">
+      <p>Boston, US</p>
+      <p>Phone: +1 8572105266</p>
+      <p> Email: zyinuoya@gmail.com</p>
+    </div>
+    <img src= IMG_1266.JPG style="width:100%;margin:32px 0">
+   
+    <p>Lets get in touch. Send me a message:</p>
+    <form action="/action_page.php" target="_blank">
+      <p><input type="text" placeholder="Name" required name="Name"></p>
+      <p><input type="text" placeholder="Email" required name="Email"></p>
+      <p><input type="text" placeholder="Subject" required name="Subject"></p>
+      <p><input type="text" placeholder="Message" required name="Message"></p>
+      <p>
+        <button type="submit">
+          <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        </button>
+      </p>
+    </form>
+  </div>  
+    </section>
+```
