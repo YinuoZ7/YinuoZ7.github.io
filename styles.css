@@ -4,6 +4,7 @@ body {
 
 header {
     font-family: Arial, sans-serif;
+    text-size-adjust: 24;
     background-color:lightgoldenrodyellow;
     color: plum;
     text-align: center;
@@ -29,6 +30,7 @@ img {
 
 section {
     background-color: lightgoldenrodyellow;
+    text-size-adjust: 24;
     color: rgba(92, 182, 212, 0.866);
     padding: 2em;
 }
