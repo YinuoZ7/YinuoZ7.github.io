@@ -105,7 +105,7 @@ footer {
 - I saw lots of website has one pircture near there website name, so I go to see one of the View development source code, I found that I can link one of the picture in the beginning of the code.
 - so I draw one a picture which represent me.
 - it looks like this 
-https://vscode.dev/github/YinuoZ7/YinuoZ7.github.io/blob/main/WechatIMG5.jpeg
+file:///Users/nuoyi/Documents/GitHub/YinuoZ7.github.io/WechatIMG5.jpeg
 - Then I add the code to the start of my website's code
 ```javascript
  <link rel="icon" sizes="192x192" href="WechatIMG5.jpeg" type="image/jpeg"/>
