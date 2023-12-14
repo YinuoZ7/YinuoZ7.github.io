@@ -100,3 +100,21 @@ footer {
     width: 100%;
 }
 ```
+
+# add the logo near the website name
+- I saw lots of website has one pircture near there website name, so I go to see one of the View development source code, I found that I can link one of the picture in the beginning of the code.
+- so I draw one a picture which represent me.
+- it looks like this 
+https://vscode.dev/github/YinuoZ7/YinuoZ7.github.io/blob/main/WechatIMG5.jpeg
+- Then I add the code to the start of my website's code
+```javascript
+ <link rel="icon" sizes="192x192" href="WechatIMG5.jpeg" type="image/jpeg"/>
+  <link rel="shortcut icon" href="WechatIMG5.jpeg" type="image/jpeg"/>
+  <link rel="apple-touch-icon" href="WechatIMG5.jpeg" type="image/jpeg"/>
+```
+
+# write things in that 
+- I put some tittle and introduction in the each section. 
+
+# I feel that I need to put some picture in my website which can make my website looks good.
+- 
